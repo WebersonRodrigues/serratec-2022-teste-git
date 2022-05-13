@@ -10,4 +10,7 @@ public abstract class Pessoa {
     private LocalDate dataNascimento;
 
     private Boolean desenvolvedor;
+
+    private int idade;
 }
+
