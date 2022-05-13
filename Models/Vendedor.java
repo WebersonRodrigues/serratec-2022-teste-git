@@ -1,5 +1,6 @@
 package Models;
 
 public class Vendedor  extends Pessoa {
-    private int cnpj;    
+    private int cnpj;
+    private double comicao;    
 }
